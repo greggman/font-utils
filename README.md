@@ -49,10 +49,10 @@ the index.
 
 * open a node command prompt (or some command prompt with node.js in your path)
 
-    cd fonts/gen-font
-    npm install
-    cd ../fonts/make-fonts
-    npm install
+        cd fonts/gen-font
+        npm install
+        cd ../fonts/make-fonts
+        npm install
 
 # To generate the fonts
 
