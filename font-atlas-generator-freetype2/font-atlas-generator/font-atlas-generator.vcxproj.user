@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>--error-on-crop=true --font=Fonts-for-Gregg/JF-Dot-Shinonome14.ttf --outname=delme --font-size=14 --glyph-height=16 --font-index=0 --range=65-70 --y-offset=2 </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)\..\..</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>--error-on-crop=true --font=Fonts-for-Gregg/JF-Dot-Shinonome14.ttf --outname=delme --font-size=14 --glyph-height=16 --font-index=0 --range=65-70 --y-offset=2 </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)\..\..</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+</Project>
