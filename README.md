@@ -45,7 +45,7 @@ the index.
 
         +-somefolder
           +-fonts (contents of fonts.zip)
-          +-build-new/DELTARUNE (gamemaker project)
+          +-build-new/yourproject (gamemaker project)
 
 * open a node command prompt (or some command prompt with node.js in your path)
 
@@ -74,8 +74,8 @@ the index.
 
 
         {
-          fontName: "FTT-UDKakugoC80 M",
-          font: "Fonts-for-Gregg/TT_UDKakugoC80-M.ttf",
+          fontName: "Name of Font",
+          font: "Fonts-for-Gregg/Name Of Font.ttf",
           glyphHeight: 14,
           fontSize: 10,
           yOffset: 1,
